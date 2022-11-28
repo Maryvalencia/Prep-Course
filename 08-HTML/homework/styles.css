@@ -1,0 +1,17 @@
+h1{
+    color: darkviolet;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 15px solid green;
+}
+#spanId{
+    font-style: 18px;
+    margin: 50px;
+}
